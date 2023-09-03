@@ -1,0 +1,20 @@
+.pink-bg {
+  background-color: rgb(255, 133, 133);
+  font-family: Verdana, 'DejaVu Sans', sans-serif;
+  font-size: 18px;
+}
+
+.big {
+  font-size: 24px;
+}
+
+#num-2 {
+  color: rgb(55, 0, 255);
+  font-size: 36px;
+}
+
+#num-4 {
+  background-color: rgb(123, 255, 119);
+  font-size: 24px;
+  font-weight: bold;
+}
